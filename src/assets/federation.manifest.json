@@ -1,5 +1,5 @@
 {
-    "products": "http://localhost:3001/remoteEntry.json",
-    "cart": "http://localhost:3002/remoteEntry.json",
-    "shared-ui": "http://localhost:3003/remoteEntry.json"
+    "products": "https://remote-products-dun.vercel.app/remoteEntry.json",
+    "cart": "https://remote-cart-ten.vercel.app/remoteEntry.json",
+    "shared-ui": "https://remote-shared-ui.vercel.app/remoteEntry.json"
 }
